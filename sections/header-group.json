@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "LIMITED DEAL: -15 % + GRATIS GESCHENK",
             "url": ""
           }
         }
@@ -30,7 +30,7 @@
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#e18ad4",
         "background_gradient": "",
