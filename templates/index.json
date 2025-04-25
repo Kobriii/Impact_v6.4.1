@@ -111,6 +111,115 @@
         "text_color": ""
       }
     },
+    "video_VBxyX8": {
+      "type": "video",
+      "blocks": {
+        "play_pmte9J": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_VqEYXc": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_pmte9J",
+        "heading_VqEYXc"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "DAMLOUA ENTDECKEN",
+        "text_size": "medium",
+        "text_style": "fill",
+        "scrolling_mode": "scroll",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "featured_collection_H8e7KM": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "airly-2-0",
+          "brushly-2-0",
+          "straightly-2-0"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "rich_text_X4wckK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_M4r9RU": {
+          "type": "heading",
+          "settings": {
+            "text": "DAMLOUA",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_fLPRRW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Bei Glimora dreht sich alles darum, dir professionelles Haarstyling zu ermöglichen – einfach, schnell und erschwinglich. Unsere Produkte wurden entwickelt, um dir Zeit zu sparen und dir dabei zu helfen, dich jeden Tag selbstbewusst und schön zu fühlen. Wir stehen für Qualität, Design und eine Community, die sich gegenseitig inspiriert. Unsere Vision: Haarstyling soll kein Luxus sein, sondern ein Gefühl von Stärke und Leichtigkeit. Werde Teil von Glimora und entdecke, wie einfach großartige Ergebnisse sein können. <strong>Glimora – Haare, die begeistern.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_M4r9RU",
+        "richtext_fLPRRW"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -195,21 +304,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "collection-list": {
@@ -775,12 +869,36 @@
             "title": "Any question?",
             "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
+        },
+        "item_piVyc9": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_M8JmNT": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_z7CdwX": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_piVyc9",
+        "item_M8JmNT",
+        "item_z7CdwX"
       ],
       "settings": {
         "full_width": false,
@@ -808,8 +926,11 @@
   "order": [
     "slideshow",
     "text_with_icons_gQTmDJ",
-    "image-link-blocks",
+    "video_VBxyX8",
     "scrolling-text",
+    "featured_collection_H8e7KM",
+    "rich_text_X4wckK",
+    "image-link-blocks",
     "collection-list",
     "featured-collection",
     "impact-text",
