@@ -90,6 +90,58 @@
             "text_color": ""
           }
         },
+        "offer_cdywiH": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-box",
+            "icon_width": 20,
+            "title": "Kostenloser Versand",
+            "content": "<p>keine Versteckten Kosten</p>",
+            "background": "#eeeeee",
+            "text_color": "#000000"
+          }
+        },
+        "offer_VYfzAf": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-coupon",
+            "icon_width": 20,
+            "title": "Bezahlen in 30 Tagen",
+            "content": "<p>mit Klarna</p>",
+            "background": "#eeeeee",
+            "text_color": "#000000"
+          }
+        },
+        "offer_fY7PrU": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-love",
+            "icon_width": 20,
+            "title": "99% Zufriedene Kunden",
+            "content": "<p>Bei 5.000+ Kunden</p>",
+            "background": "#eeeeee",
+            "text_color": "#000000"
+          }
+        },
+        "offer_kBWReA": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-validation",
+            "icon_width": 20,
+            "title": "Geld-Zurück-Garantie",
+            "content": "<p>Einfache Rückgabe</p>",
+            "background": "#eeeeee",
+            "text_color": "#000000"
+          }
+        },
         "collapsible_text_jh7UjJ": {
           "type": "collapsible_text",
           "settings": {
@@ -114,6 +166,10 @@
         "inventory_3Rrriy",
         "quantity_selector",
         "associated_products_W4CFA4",
+        "offer_cdywiH",
+        "offer_VYfzAf",
+        "offer_fY7PrU",
+        "offer_kBWReA",
         "collapsible_text_jh7UjJ"
       ],
       "settings": {
