@@ -129,19 +129,6 @@
             "text_color": "#000000"
           }
         },
-        "offer_kBWReA": {
-          "type": "offer",
-          "settings": {
-            "text_alignment": "start",
-            "icon_position": "aligned",
-            "icon": "picto-validation",
-            "icon_width": 20,
-            "title": "Geld-Zurück-Garantie",
-            "content": "<p>Einfache Rückgabe</p>",
-            "background": "#eeeeee",
-            "text_color": "#000000"
-          }
-        },
         "collapsible_text_jh7UjJ": {
           "type": "collapsible_text",
           "settings": {
@@ -169,7 +156,6 @@
         "offer_cdywiH",
         "offer_VYfzAf",
         "offer_fY7PrU",
-        "offer_kBWReA",
         "collapsible_text_jh7UjJ"
       ],
       "settings": {
