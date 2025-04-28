@@ -17,19 +17,10 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image": "shopify://shop_images/DAMLOUA_LOGO_weiss.png",
             "image_width": 150,
             "heading_size": "h3",
             "title": "Join the DamlouaClub",
             "content": "<p>Garantiert kein Spam. Versprochen. </p><p>Spare 10% auf deine erste Bestellung.</p>"
-          }
-        },
-        "text_f8d7We": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "content": "",
-            "enable_follow_on_shop": false
           }
         },
         "links": {
@@ -51,7 +42,6 @@
       },
       "block_order": [
         "newsletter",
-        "text_f8d7We",
         "links",
         "links_DjLxAD"
       ],
