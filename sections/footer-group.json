@@ -27,8 +27,8 @@
         "text_f8d7We": {
           "type": "text",
           "settings": {
-            "title": "About our store",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "",
+            "content": "",
             "enable_follow_on_shop": false
           }
         },
