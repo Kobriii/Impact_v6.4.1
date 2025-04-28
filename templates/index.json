@@ -17,12 +17,12 @@
           "settings": {
             "image": "shopify://shop_images/woman-in-polka-dot-dress.jpg",
             "content_max_width": 680,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-start-center sm:text-center",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
             "subheading": "",
-            "title": "Entdecke die Welt von Damloua",
+            "title": "SCHNELL, INNOVATIV, EINFACH",
             "heading_tag": "h2",
-            "button_text": "Jetzt einkaufen",
+            "button_text": "JETZT ENTDECKEN",
             "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#e18ad4",
@@ -109,37 +109,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "video_VBxyX8": {
-      "type": "video",
-      "blocks": {
-        "play_pmte9J": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_VqEYXc": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_pmte9J",
-        "heading_VqEYXc"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "scrolling-text": {
@@ -376,7 +345,7 @@
         "full_width": true,
         "image": "shopify://shop_images/woman-portrait-on-pink-brick.jpg",
         "show_icon": false,
-        "title": "Join the Damlouaclub",
+        "title": "Join the DamlouaClub",
         "content": "<p>Garantiert kein Spam. Versprochen. </p><p>Spare 10% auf deine erste Bestellung.</p>",
         "button_text": "REGISTRIEREN",
         "subtext": "",
@@ -467,7 +436,6 @@
   "order": [
     "slideshow",
     "text_with_icons_gQTmDJ",
-    "video_VBxyX8",
     "scrolling-text",
     "featured_collection_H8e7KM",
     "rich_text_X4wckK",
