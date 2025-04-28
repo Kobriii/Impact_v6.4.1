@@ -362,43 +362,29 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Sind die Locken lang anhaltend?",
+            "content": "<p>Ja, mit dem Damloua AIRLY kreierst du langanhaltende Locken, die bis zu 12h halten.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Ist AIRLY auch für kurze Haare geeignet?",
+            "content": "<p>Ja, unser Haarstyler ist ideal für jede Haarlänge geeignet, egal ob kurz, mittellang oder lang.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Wie lange dauert der Versand?",
+            "content": "<p>Der Versand dauert in der Regel 5-9 Werktage innerhalb Deutschlands</p>"
           }
         },
         "item_piVyc9": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
-        },
-        "item_M8JmNT": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
-        },
-        "item_z7CdwX": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Kann ich meine Bestellung zurück senden, wenn ich unzufrieden bin?",
+            "content": "<p>Ja, wir bieten eine 14-tägige Rückgabegarantie. Wenn du mit deinem Kauf nicht zufrieden bist, kannst du das Produkt innerhalb von 14 Tagen ab Erhalt zurücksenden. Bitte beachte das, das Produkt unbenutzt und in der Originalverpackung sein muss. Weitere Informationen zur Rücksendung finden Sie in unseren Rückgabebedingungen.</p>"
           }
         }
       },
@@ -406,29 +392,27 @@
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_piVyc9",
-        "item_M8JmNT",
-        "item_z7CdwX"
+        "item_piVyc9"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
+        "button_background": "#ffffff",
+        "button_text_color": "#ffffff",
+        "accordion_background": "#ffffff",
         "accordion_text_color": ""
       }
     }
