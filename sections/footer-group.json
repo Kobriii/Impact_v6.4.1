@@ -23,6 +23,14 @@
             "content": "<p>Garantiert kein Spam. Versprochen. </p><p>Spare 10% auf deine erste Bestellung.</p>"
           }
         },
+        "text_jWjyrE": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "content": "",
+            "enable_follow_on_shop": false
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
@@ -42,6 +50,7 @@
       },
       "block_order": [
         "newsletter",
+        "text_jWjyrE",
         "links",
         "links_DjLxAD"
       ],
