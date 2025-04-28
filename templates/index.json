@@ -139,7 +139,7 @@
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_count": 6,
+        "products_count": 3,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
@@ -252,10 +252,6 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -300,8 +296,8 @@
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -310,7 +306,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "price",
@@ -322,7 +317,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "brushly-2-0",
+        "product": "straightly-2-0",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "contained",
