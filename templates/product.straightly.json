@@ -138,6 +138,26 @@
             "content": "<p><strong>F: Wie benutzt du den STRAIGHTLY von Damloua?</strong><br/><br/>A: Um den STRAIGHTLY<strong> </strong>von Damloua<strong> </strong>zu verwenden, schalte ihn ein und wähle die gewünschte Hitze- und Geschwindigkeitseinstellung. Teile dann dein Haar in Abschnitte und gleite mit dem Luftglätter langsam über jeden Abschnitt, um dein Haar zu glätten und ihm Glanz zu verleihen.</p><p><strong>F: Ist der STRAIGHTLY von Damloua für alle Haartypen geeignet?</strong><br/><br/>A: Ja, der STRAIGHTLY von Damloua ist für verschiedene Haartypen geeignet, einschließlich glattes, welliges und lockiges Haar. Er bietet vielseitige Stylingoptionen, um jedem Haartyp ein glattes Finish zu verleihen.</p><p><strong>F: Kann ich die Hitze anpassen?</strong><br/><br/>A:Ja, du kannst die Hitze des STRAIGHTLY von Damloua anpassen. Es gibt mehrere Hitze- und Geschwindigkeitseinstellungen, sodass du die für dein Haar am besten geeignete Option wählen kannst.</p><p><strong>F: Ist der STRAIGHTLY von Damloua sicher für den täglichen Gebrauch?</strong><br/><br/>A: Ja, der STRAIGHTLY von Damloua ist sicher für den täglichen Gebrauch, vorausgesetzt, er wird entsprechend den Anweisungen verwendet. Um Haarschäden zu vermeiden, ist es ratsam, die Hitze nicht zu hoch einzustellen.</p><p><strong>F: Wie reinige ich den STRAIGHTLY von Damloua?</strong><br/><br/>A: Schalte den STRAIGHTLY von Damloua aus und lasse ihn abkühlen. Verwende dann ein feuchtes Tuch, um Rückstände von Haarprodukten zu entfernen. Achte darauf, den Luftglätter nicht direkt mit Wasser zu reinigen, da dies die Elektronik beschädigen könnte.</p><p><strong>F: Kann ich den STRAIGHTLY von Damloua auch bei nassem Haar verwenden?</strong><br/><br/>A: Es wird empfohlen, den STRAIGHTLY von Damloua nur auf handtuchtrockenem oder trockenem Haar zu verwenden, um Hitzeschäden zu vermeiden. Die Anwendung auf nassem Haar kann zu Haarbruch oder Schäden führen.</p><p><strong>F: Wie lange dauert es, bis der STRAIGHTLY von Damloua einsatzbereit ist?</strong><br/><br/>A: Der STRAIGHTLY von Damloua heizt sich in der Regel innerhalb weniger Minuten auf, je nach gewählter Hitze- und Geschwindigkeitseinstellung. Es ist ratsam, die Gebrauchsanweisung für spezifische Anweisungen zu lesen.</p><p><strong>F: Kann ich mit dem STRAIGHTLY von Damloua auch Locken machen?</strong><br/><br/>A: Ja, mit dem STRAIGHTLY von Damloua kannst du auch Locken oder Wellen stylen, indem du das Haar um den Glätter wickelst und es langsam durchführst. So kannst du verschiedene Looks mit nur einem Gerät kreieren.</p><p><strong>F: Ist der STRAIGHTLY von Damloua auch für Reisen geeignet?</strong><br/><br/>A: Der STRAIGHTLY von Damloua ist kompakt und leicht, was ihn zu einer idealen Option für Reisen macht. Achte jedoch darauf, die richtige Spannungseinstellung für das jeweilige Land zu verwenden, wenn du ins Ausland reist.</p>",
             "page": ""
           }
+        },
+        "collapsible_text_JhbYD3": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-love",
+            "icon_width": 28,
+            "title": "Unsere Garantie",
+            "content": "<p>Wir lieben den STRAIGHTLY genauso, wie du ihn lieben wirst, und bieten deshalb eine risikofreie 14 tägige Geld-Zurück-Garantie an. Wenn du nicht zufrieden bist kannst du uns STRAIGHTLY jederzeit einfach zurücksenden & wir erstatten dir den vollen Betrag zurück!</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_mrR6tM": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-truck",
+            "icon_width": 28,
+            "title": "Lieferumfang",
+            "content": "<p>Wir nutzen <strong>DHL und Hermes</strong> als Versanddienstleister.</p><p>✅ Damloua - STRAIGHTLY 2.0<br/>✅ Betriebsanleitung</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -156,7 +176,9 @@
         "offer_cdywiH",
         "offer_VYfzAf",
         "offer_fY7PrU",
-        "collapsible_text_jh7UjJ"
+        "collapsible_text_jh7UjJ",
+        "collapsible_text_JhbYD3",
+        "collapsible_text_mrR6tM"
       ],
       "settings": {
         "full_width": true,
