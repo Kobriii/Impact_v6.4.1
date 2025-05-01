@@ -132,9 +132,9 @@
       "settings": {
         "collection": "",
         "products": [
-          "airly-2-0",
           "brushly-2-0",
-          "straightly-2-0"
+          "straightly-2-0",
+          "airly-2-1"
         ],
         "full_width": true,
         "stack_products": true,
