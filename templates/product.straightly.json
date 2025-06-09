@@ -300,7 +300,7 @@
         "image_gyyQNk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.45.48.png",
+            "image": "shopify://shop_images/1.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -336,6 +336,7 @@
         "image_Rtfxpb": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.44.30.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
