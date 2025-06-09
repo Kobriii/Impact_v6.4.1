@@ -366,28 +366,6 @@
         "spacing": "small"
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "DAS wird dir auch gefallen",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "1730104165e01a34cb": {
       "type": "apps",
       "settings": {
@@ -434,6 +412,31 @@
         "alternate_media_position": false,
         "spacing": "small"
       }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [
+          "brushly-2-0",
+          "airly-2-1"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "DAS wird dir auch gefallen",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -442,8 +445,8 @@
     "media_with_text_AJgxnY",
     "media_with_text_B7dayA",
     "media_with_text_MwL7KX",
-    "related-products",
     "1730104165e01a34cb",
-    "media_with_text_qzQLnr"
+    "media_with_text_qzQLnr",
+    "related-products"
   ]
 }
