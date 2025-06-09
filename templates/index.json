@@ -284,8 +284,8 @@
             "hide_sold_out_variants": false,
             "stack_blocks": true,
             "selector_style": "block",
-            "swatch_selector_style": "color",
-            "variant_image_options": "",
+            "swatch_selector_style": "none",
+            "variant_image_options": "farbe",
             "size_chart_page": ""
           }
         },
