@@ -391,6 +391,82 @@
         "text_color": ""
       }
     },
+    "multi_column_PXGkFp": {
+      "type": "multi-column",
+      "blocks": {
+        "item_aVqKXq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_ohne_Titel_-_2023-08-11T234348.681_1_1.png",
+            "column_size": "4",
+            "title": "Lockenaufsätze",
+            "heading_tag": "h4",
+            "content": "<p>Kreiert schöne, definierte Locken einfach durch Wickeln und Gleiten.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6DEz9A": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_ohne_Titel_-_2023-08-11T220414.773_1_1.png",
+            "column_size": "4",
+            "title": "Rundbürste",
+            "heading_tag": "h4",
+            "content": "<p>Verleiht mehr Volumen und Fülle durch spezielle Borsten.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3KyGRr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_ohne_Titel_-_2023-08-11T230023.304_1_1.png",
+            "column_size": "4",
+            "title": "Smoothingbürste",
+            "heading_tag": "h4",
+            "content": "<p>Ideal zum Entwirren, Glätten und Pflegen des Haares.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ek7qwf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_ohne_Titel_-_2023-08-11T225943.671_1_1.png",
+            "column_size": "4",
+            "title": "Pre-Styling-Föhn",
+            "heading_tag": "h4",
+            "content": "<p>Schnelles, effektives Trocknen mit gleichmäßiger Hitzeverteilung, minimiert Hitzeschäden.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_aVqKXq",
+        "item_6DEz9A",
+        "item_3KyGRr",
+        "item_ek7qwf"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Die Aufsätze",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_qzQLnr": {
       "type": "media-with-text",
       "blocks": {
@@ -460,6 +536,7 @@
     "media_with_text_B7dayA",
     "media_with_text_MwL7KX",
     "1730104165e01a34cb",
+    "multi_column_PXGkFp",
     "media_with_text_qzQLnr",
     "related-products"
   ]
