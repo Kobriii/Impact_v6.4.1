@@ -274,33 +274,6 @@
     },
     "media_with_text_AJgxnY": {
       "type": "media-with-text",
-      "blocks": {
-        "image_QtqLa8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.45.16.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "FÜR JEDEN HAARTYPEN",
-            "content": "<p>Mit dem DAMLOUA AIRLY stylst du dein Haar schonend und effizient – ganz ohne extreme Hitze. Ob glatt, voluminös oder natürlich texturiert: AIRLY ermöglicht dir vielseitige Looks mit Salon-Finish, und das bequem von zu Hause. Weniger Zeit, weniger Hitzeschäden – mehr Wow-Effekt.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_QtqLa8"
-      ],
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -314,7 +287,7 @@
         "image_gyyQNk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1.png",
+            "image": "shopify://shop_images/9.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -322,7 +295,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Unsere Vorteile",
-            "content": "<p>Mit AIRLY hast du dein Styling selbst in der Hand – ganz einfach und bequem von zu Hause aus. Erlebe die Vielseitigkeit und den Komfort unserer Tools und genieße professionelle Ergebnisse, ohne Zeit und Geld im Salon zu lassen.</p>",
+            "content": "<p>Dank selbstmassierender Bürstenköpfe und integriertem Öl-Applikator wird dein Haar bei jedem Bürstenstrich sanft gepflegt und verwöhnt. Die gezielte Ölverteilung sorgt für geschmeidiges, glänzendes Haar, während der Infrarot-Ring die Tiefenwirkung aktiviert und die Kopfhaut stimuliert. BRUSHLY eignet sich für alle Haartypen und kombiniert effektive Pflege mit entspannender Massage. Entwickelt für sichtbare Ergebnisse.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -346,33 +319,6 @@
     },
     "media_with_text_MwL7KX": {
       "type": "media-with-text",
-      "blocks": {
-        "image_Rtfxpb": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.44.30.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "WARUM AIRLY?",
-            "content": "<p>Föhnen und Glätten in einem Schritt – ganz ohne Hitzeschäden.<br/><br/>DAMLOUA AIRLY ist die smarte, schonende und <strong>günstigere Alternative zu bekannten Marken</strong>, dabei genauso leistungsstark.<br/><br/>Geeignet für <strong>alle Haartypen</strong>, sorgt AIRLY für ein <strong>mühelos natürliches Styling</strong> – schnell, sanft und effektiv.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_Rtfxpb"
-      ],
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -397,15 +343,15 @@
         "image_Ng8nRJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.41.54.png",
+            "image": "shopify://shop_images/dfgv.png",
             "media_width": 50,
-            "media_position": "end",
+            "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
             "title": "VORHER & NACHHER",
-            "content": "",
+            "content": "<p>Von strapaziert und glanzlos zu seidig, gepflegt und voller Leben – ganz ohne Hitze, dafür mit Pflege, Massage und Infrarot-Technologie.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -432,8 +378,8 @@
       "settings": {
         "recommendations_count": 6,
         "products": [
-          "brushly-2-0",
-          "airly-2-1"
+          "airly-2-1",
+          "straightly-2-0"
         ],
         "full_width": true,
         "stack_products": true,
