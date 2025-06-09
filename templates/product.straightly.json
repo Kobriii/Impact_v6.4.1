@@ -206,10 +206,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Julia K.",
+            "title": "Nie wieder normales Glätteisen!",
+            "content": "<p>AIRLY ist ein Gamechanger! Kein Ziepen, kein Hitzeschaden – meine Haare fühlen sich gesünder an als je zuvor. Und das Ganze in der Hälfte der Zeit.</p>"
           }
         },
         "testimonial_dHwrzt": {
@@ -218,9 +218,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Zara H.",
+            "title": "Bestes Styling-Tool, das ich je hatte!",
+            "content": "<p>AIRLY trocknet und glättet in einem Schritt – was für eine Zeitersparnis! Ideal für meinen stressigen Alltag.</p>"
           }
         },
         "testimonial_zTV9hi": {
@@ -228,10 +228,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Merve A.",
+            "title": "Ich bekomme ständig Komplimente für meine Haare!",
+            "content": "<p>Seit ich AIRLY benutze, sprechen mich ständig Leute auf mein Haar an – glatt, glänzend, aber nicht künstlich. Ich liebe es!</p>"
           }
         }
       },
@@ -244,17 +244,17 @@
       "settings": {
         "full_width": true,
         "stack_testimonials": true,
-        "subheading": "",
-        "title": "Echte reviews von echten frauen",
+        "subheading": "ECHTE REVIEWS VON ECHTEN FRAUEN",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "",
+        "testimonial_card_background": "#ffffff",
         "testimonial_card_text_color": ""
       }
     },
@@ -264,19 +264,20 @@
         "image_QtqLa8": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.45.16.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "FÜR JEDEN HAARTYPEN",
+            "content": "<p>Mit dem DAMLOUA AIRLY stylst du dein Haar schonend und effizient – ganz ohne extreme Hitze. Ob glatt, voluminös oder natürlich texturiert: AIRLY ermöglicht dir vielseitige Looks mit Salon-Finish, und das bequem von zu Hause. Weniger Zeit, weniger Hitzeschäden – mehr Wow-Effekt.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -299,19 +300,20 @@
         "image_gyyQNk": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.45.48.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Unsere Vorteile",
+            "content": "<p>Mit AIRLY hast du dein Styling selbst in der Hand – ganz einfach und bequem von zu Hause aus. Erlebe die Vielseitigkeit und den Komfort unserer Tools und genieße professionelle Ergebnisse, ohne Zeit und Geld im Salon zu lassen.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
