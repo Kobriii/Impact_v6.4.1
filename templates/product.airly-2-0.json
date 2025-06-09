@@ -1,0 +1,466 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "offer_eVRQMK": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "center",
+            "icon_position": "aligned",
+            "icon": "picto-coupon",
+            "icon_width": 20,
+            "title": "SPARE 10% SUMMER DEAL",
+            "content": "<p>Nutze den Code: <strong>SUMMER10</strong></p>",
+            "background": "#f2f2f2",
+            "text_color": "#000000"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": true
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "Farbe",
+            "size_chart_page": ""
+          }
+        },
+        "text_gtAMRz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✔️ Innovative Luft-Technologie</p><p>🚫 Ohne Heizplatten. Ohne Hitzeschäden</p><p>❤️ Für seidenglattes und gesundes Haar</p><p>🔙 14-Tage Geld zurück Garantie</p>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#e18ad4",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "inventory_3Rrriy": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 0
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "associated_products_W4CFA4": {
+          "type": "associated_products",
+          "settings": {
+            "title": "Buy it with",
+            "stack_products": true,
+            "products_count": 5,
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "offer_cdywiH": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-box",
+            "icon_width": 28,
+            "title": "Kostenloser Versand",
+            "content": "<p>0€ Versprochen</p>",
+            "background": "#eeeeee",
+            "text_color": "#000000"
+          }
+        },
+        "offer_VYfzAf": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-coupon",
+            "icon_width": 28,
+            "title": "Bezahlen in 30 Tagen",
+            "content": "<p>mit Klarna</p>",
+            "background": "#eeeeee",
+            "text_color": "#000000"
+          }
+        },
+        "offer_fY7PrU": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-love",
+            "icon_width": 28,
+            "title": "Zufriedene Kunden",
+            "content": "<p>Bei 5.000+ Kunden</p>",
+            "background": "#eeeeee",
+            "text_color": "#000000"
+          }
+        },
+        "collapsible_text_jh7UjJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-chat",
+            "icon_width": 28,
+            "title": "FAQ",
+            "content": "<p><strong>F: Wie benutzt du den STRAIGHTLY von Damloua?</strong><br/><br/>A: Um den STRAIGHTLY<strong> </strong>von Damloua<strong> </strong>zu verwenden, schalte ihn ein und wähle die gewünschte Hitze- und Geschwindigkeitseinstellung. Teile dann dein Haar in Abschnitte und gleite mit dem Luftglätter langsam über jeden Abschnitt, um dein Haar zu glätten und ihm Glanz zu verleihen.</p><p><strong>F: Ist der STRAIGHTLY von Damloua für alle Haartypen geeignet?</strong><br/><br/>A: Ja, der STRAIGHTLY von Damloua ist für verschiedene Haartypen geeignet, einschließlich glattes, welliges und lockiges Haar. Er bietet vielseitige Stylingoptionen, um jedem Haartyp ein glattes Finish zu verleihen.</p><p><strong>F: Kann ich die Hitze anpassen?</strong><br/><br/>A:Ja, du kannst die Hitze des STRAIGHTLY von Damloua anpassen. Es gibt mehrere Hitze- und Geschwindigkeitseinstellungen, sodass du die für dein Haar am besten geeignete Option wählen kannst.</p><p><strong>F: Ist der STRAIGHTLY von Damloua sicher für den täglichen Gebrauch?</strong><br/><br/>A: Ja, der STRAIGHTLY von Damloua ist sicher für den täglichen Gebrauch, vorausgesetzt, er wird entsprechend den Anweisungen verwendet. Um Haarschäden zu vermeiden, ist es ratsam, die Hitze nicht zu hoch einzustellen.</p><p><strong>F: Wie reinige ich den STRAIGHTLY von Damloua?</strong><br/><br/>A: Schalte den STRAIGHTLY von Damloua aus und lasse ihn abkühlen. Verwende dann ein feuchtes Tuch, um Rückstände von Haarprodukten zu entfernen. Achte darauf, den Luftglätter nicht direkt mit Wasser zu reinigen, da dies die Elektronik beschädigen könnte.</p><p><strong>F: Kann ich den STRAIGHTLY von Damloua auch bei nassem Haar verwenden?</strong><br/><br/>A: Es wird empfohlen, den STRAIGHTLY von Damloua nur auf handtuchtrockenem oder trockenem Haar zu verwenden, um Hitzeschäden zu vermeiden. Die Anwendung auf nassem Haar kann zu Haarbruch oder Schäden führen.</p><p><strong>F: Wie lange dauert es, bis der STRAIGHTLY von Damloua einsatzbereit ist?</strong><br/><br/>A: Der STRAIGHTLY von Damloua heizt sich in der Regel innerhalb weniger Minuten auf, je nach gewählter Hitze- und Geschwindigkeitseinstellung. Es ist ratsam, die Gebrauchsanweisung für spezifische Anweisungen zu lesen.</p><p><strong>F: Kann ich mit dem STRAIGHTLY von Damloua auch Locken machen?</strong><br/><br/>A: Ja, mit dem STRAIGHTLY von Damloua kannst du auch Locken oder Wellen stylen, indem du das Haar um den Glätter wickelst und es langsam durchführst. So kannst du verschiedene Looks mit nur einem Gerät kreieren.</p><p><strong>F: Ist der STRAIGHTLY von Damloua auch für Reisen geeignet?</strong><br/><br/>A: Der STRAIGHTLY von Damloua ist kompakt und leicht, was ihn zu einer idealen Option für Reisen macht. Achte jedoch darauf, die richtige Spannungseinstellung für das jeweilige Land zu verwenden, wenn du ins Ausland reist.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_JhbYD3": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-love",
+            "icon_width": 28,
+            "title": "Unsere Garantie",
+            "content": "<p>Wir lieben den STRAIGHTLY genauso, wie du ihn lieben wirst, und bieten deshalb eine risikofreie 14 tägige Geld-Zurück-Garantie an. Wenn du nicht zufrieden bist kannst du uns STRAIGHTLY jederzeit einfach zurücksenden & wir erstatten dir den vollen Betrag zurück!</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_mrR6tM": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-truck",
+            "icon_width": 28,
+            "title": "Lieferumfang",
+            "content": "<p>Wir nutzen <strong>DHL und Hermes</strong> als Versanddienstleister.</p><p>✅ Damloua - STRAIGHTLY 2.0<br/>✅ Betriebsanleitung</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "offer_eVRQMK",
+        "title",
+        "badges",
+        "rating",
+        "price",
+        "payment_terms",
+        "separator",
+        "variant_picker",
+        "text_gtAMRz",
+        "buy_buttons",
+        "inventory_3Rrriy",
+        "quantity_selector",
+        "associated_products_W4CFA4",
+        "offer_cdywiH",
+        "offer_VYfzAf",
+        "offer_fY7PrU",
+        "collapsible_text_jh7UjJ",
+        "collapsible_text_JhbYD3",
+        "collapsible_text_mrR6tM"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "testimonials_A3FEpW": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_3Ej8N8": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Julia K.",
+            "title": "Nie wieder normales Glätteisen!",
+            "content": "<p>AIRLY ist ein Gamechanger! Kein Ziepen, kein Hitzeschaden – meine Haare fühlen sich gesünder an als je zuvor. Und das Ganze in der Hälfte der Zeit.</p>"
+          }
+        },
+        "testimonial_dHwrzt": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Zara H.",
+            "title": "Bestes Styling-Tool, das ich je hatte!",
+            "content": "<p>AIRLY trocknet und glättet in einem Schritt – was für eine Zeitersparnis! Ideal für meinen stressigen Alltag.</p>"
+          }
+        },
+        "testimonial_zTV9hi": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Merve A.",
+            "title": "Ich bekomme ständig Komplimente für meine Haare!",
+            "content": "<p>Seit ich AIRLY benutze, sprechen mich ständig Leute auf mein Haar an – glatt, glänzend, aber nicht künstlich. Ich liebe es!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_3Ej8N8",
+        "testimonial_dHwrzt",
+        "testimonial_zTV9hi"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "ECHTE REVIEWS VON ECHTEN FRAUEN",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#ffffff",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "media_with_text_AJgxnY": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_QtqLa8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.45.16.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "FÜR JEDEN HAARTYPEN",
+            "content": "<p>Mit dem DAMLOUA AIRLY stylst du dein Haar schonend und effizient – ganz ohne extreme Hitze. Ob glatt, voluminös oder natürlich texturiert: AIRLY ermöglicht dir vielseitige Looks mit Salon-Finish, und das bequem von zu Hause. Weniger Zeit, weniger Hitzeschäden – mehr Wow-Effekt.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_QtqLa8"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "media_with_text_B7dayA": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_gyyQNk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Unsere Vorteile",
+            "content": "<p>Mit AIRLY hast du dein Styling selbst in der Hand – ganz einfach und bequem von zu Hause aus. Erlebe die Vielseitigkeit und den Komfort unserer Tools und genieße professionelle Ergebnisse, ohne Zeit und Geld im Salon zu lassen.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_gyyQNk"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "media_with_text_MwL7KX": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_Rtfxpb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.44.30.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "WARUM AIRLY?",
+            "content": "<p>Föhnen und Glätten in einem Schritt – ganz ohne Hitzeschäden.<br/><br/>DAMLOUA AIRLY ist die smarte, schonende und <strong>günstigere Alternative zu bekannten Marken</strong>, dabei genauso leistungsstark.<br/><br/>Geeignet für <strong>alle Haartypen</strong>, sorgt AIRLY für ein <strong>mühelos natürliches Styling</strong> – schnell, sanft und effektiv.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Rtfxpb"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "1730104165e01a34cb": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_qzQLnr": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_Ng8nRJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.41.54.png",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "VORHER & NACHHER",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Ng8nRJ"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [
+          "brushly-2-0",
+          "airly-2-1"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "DAS wird dir auch gefallen",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "testimonials_A3FEpW",
+    "media_with_text_AJgxnY",
+    "media_with_text_B7dayA",
+    "media_with_text_MwL7KX",
+    "1730104165e01a34cb",
+    "media_with_text_qzQLnr",
+    "related-products"
+  ]
+}
