@@ -197,10 +197,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Aylin K.",
+            "title": "Stylisch, praktisch und super easy zu bedienen!",
+            "content": "<p>Das Design ist nicht nur schön, sondern auch durchdacht. Ich liebe es, wie schnell ich morgens fertig bin ohne Hitzeschäden!</p>"
           }
         },
         "testimonial_4MjJKq": {
@@ -209,9 +209,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Sophie M.",
+            "title": "Meine Locken halten endlich den ganzen Tag!",
+            "content": "<p>Ich habe dickes, schwer zu stylendes Haar – aber mit dem Airly klappt es mühelos. Und es sieht sogar professionell aus!</p>"
           }
         },
         "testimonial_GFMyd6": {
@@ -220,9 +220,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Fatima L.",
+            "title": "Mein neues Lieblings-Tool!",
+            "content": "<p>Ich bin absolut begeistert vom Ergebnis. Die Anwendung ist super intuitiv, und meine Haare fühlen sich richtig gesund an.</p>"
           }
         }
       },
@@ -240,12 +240,12 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "",
+        "testimonial_card_background": "#ffffff",
         "testimonial_card_text_color": ""
       }
     },
