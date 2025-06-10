@@ -133,7 +133,7 @@
         "collection": "",
         "products": [
           "brushly",
-          "straightly-2-0",
+          "straightly",
           "airly-2-1"
         ],
         "full_width": true,
@@ -317,7 +317,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "straightly-2-0",
+        "product": "straightly",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "contained",
