@@ -35,10 +35,19 @@
           "type": "badges",
           "settings": {}
         },
-        "rating": {
-          "type": "rating",
+        "loox_reviews_loox_rating_6wWzJT": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "show_empty": false
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
           }
         },
         "price": {
@@ -177,7 +186,7 @@
         "offer_eVRQMK",
         "title",
         "badges",
-        "rating",
+        "loox_reviews_loox_rating_6wWzJT",
         "price",
         "payment_terms",
         "separator",
@@ -344,42 +353,6 @@
         "spacing": "small"
       }
     },
-    "media_with_text_MwL7KX": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_Rtfxpb": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.44.30.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "WARUM AIRLY?",
-            "content": "<p>Föhnen und Glätten in einem Schritt – ganz ohne Hitzeschäden.<br/><br/>DAMLOUA AIRLY ist die smarte, schonende und <strong>günstigere Alternative zu bekannten Marken</strong>, dabei genauso leistungsstark.<br/><br/>Geeignet für <strong>alle Haartypen</strong>, sorgt AIRLY für ein <strong>mühelos natürliches Styling</strong> – schnell, sanft und effektiv.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_Rtfxpb"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
-      }
-    },
     "multi_column_PXGkFp": {
       "type": "multi-column",
       "blocks": {
@@ -454,6 +427,42 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "media_with_text_MwL7KX": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_Rtfxpb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.44.30.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "WARUM AIRLY?",
+            "content": "<p>Föhnen und Glätten in einem Schritt – ganz ohne Hitzeschäden.<br/><br/>DAMLOUA AIRLY ist die smarte, schonende und <strong>günstigere Alternative zu bekannten Marken</strong>, dabei genauso leistungsstark.<br/><br/>Geeignet für <strong>alle Haartypen</strong>, sorgt AIRLY für ein <strong>mühelos natürliches Styling</strong> – schnell, sanft und effektiv.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Rtfxpb"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
     "media_with_text_qzQLnr": {
