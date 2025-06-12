@@ -92,6 +92,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_RYrabh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .social-proof-box {\n    display: flex;\n    align-items: center;\n    font-family: Arial, sans-serif;\n    font-size: 16px;\n    margin-top: 15px;\n    background: #f5f5f5;\n    padding: 10px 14px;\n    border-radius: 10px;\n    max-width: 400px;\n    box-shadow: 0 0 6px rgba(0,0,0,0.1);\n  }\n\n  .social-proof-box img.avatar {\n    width: 32px;\n    height: 32px;\n    border-radius: 50%;\n    object-fit: cover;\n    margin-right: 8px;\n    border: 2px solid #fff;\n  }\n\n  .social-proof-text {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    flex-wrap: wrap;\n  }\n\n  .verified {\n    color: #1DA1F2;\n    font-size: 16px;\n  }\n</style>\n\n<div class=\"social-proof-box\">\n  <img id=\"avatar1\" class=\"avatar\" src=\"https://randomuser.me/api/portraits/women/21.jpg\" alt=\"Profilbild 1\">\n  <img id=\"avatar2\" class=\"avatar\" src=\"https://randomuser.me/api/portraits/women/33.jpg\" alt=\"Profilbild 2\">\n  <div class=\"social-proof-text\" id=\"social-proof-text\">\n    Sude<span class=\"verified\">✔️</span>, Anna<span class=\"verified\">✔️</span> und 429 weitere lieben dieses Produkt\n  </div>\n</div>\n\n<script>\n  const femaleNames = [\n    { name: \"Sude\", img: \"https://randomuser.me/api/portraits/women/21.jpg\" },\n    { name: \"Anna\", img: \"https://randomuser.me/api/portraits/women/33.jpg\" },\n    { name: \"Lea\", img: \"https://randomuser.me/api/portraits/women/12.jpg\" },\n    { name: \"Emma\", img: \"https://randomuser.me/api/portraits/women/44.jpg\" },\n    { name: \"Mia\", img: \"https://randomuser.me/api/portraits/women/55.jpg\" },\n    { name: \"Lena\", img: \"https://randomuser.me/api/portraits/women/28.jpg\" },\n    { name: \"Nina\", img: \"https://randomuser.me/api/portraits/women/39.jpg\" },\n    { name: \"Laura\", img: \"https://randomuser.me/api/portraits/women/17.jpg\" }\n  ];\n\n  function getRandomEntries(arr) {\n    const shuffled = arr.sort(() => 0.5 - Math.random());\n    return [shuffled[0], shuffled[1]];\n  }\n\n  function getRandomNumber(min = 100, max = 999) {\n    return Math.floor(Math.random() * (max - min) + min);\n  }\n\n  function updateSocialProof() {\n    const [person1, person2] = getRandomEntries(femaleNames);\n    const count = getRandomNumber();\n\n    document.getElementById('avatar1').src = person1.img;\n    document.getElementById('avatar1').alt = person1.name;\n    document.getElementById('avatar2').src = person2.img;\n    document.getElementById('avatar2').alt = person2.name;\n\n    document.getElementById('social-proof-text').innerHTML = `\n      ${person1.name}<span class=\"verified\">✔️</span>, \n      ${person2.name}<span class=\"verified\">✔️</span> \n      und ${count} weitere lieben dieses Produkt\n    `;\n  }\n\n  // Initial anzeigen + automatisch alle 10 Sekunden aktualisieren\n  updateSocialProof();\n  setInterval(updateSocialProof, 10000);\n</script>"
+          }
+        },
         "inventory_3Rrriy": {
           "type": "inventory",
           "settings": {
@@ -193,6 +199,7 @@
         "variant_picker",
         "text_gtAMRz",
         "buy_buttons",
+        "liquid_RYrabh",
         "inventory_3Rrriy",
         "quantity_selector",
         "associated_products_W4CFA4",
@@ -263,7 +270,6 @@
         "testimonial_dHwrzt",
         "testimonial_zTV9hi"
       ],
-      "name": "Testimonials",
       "settings": {
         "full_width": true,
         "stack_testimonials": true,
@@ -310,7 +316,6 @@
       "block_order": [
         "image_QtqLa8"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "alternate_media_position": false,
@@ -346,7 +351,6 @@
       "block_order": [
         "image_gyyQNk"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "alternate_media_position": false,
@@ -415,7 +419,6 @@
         "item_3KyGRr",
         "item_ek7qwf"
       ],
-      "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -458,7 +461,6 @@
       "block_order": [
         "image_Rtfxpb"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "alternate_media_position": false,
@@ -494,7 +496,6 @@
       "block_order": [
         "image_Ng8nRJ"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "alternate_media_position": false,
