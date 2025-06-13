@@ -75,10 +75,10 @@
             "size_chart_page": ""
           }
         },
-        "text_gtAMRz": {
-          "type": "text",
+        "liquid_Cr8k3g": {
+          "type": "liquid",
           "settings": {
-            "text": "<p>✔️ Innovative Luft-Technologie</p><p>🚫 Ohne Heizplatten. Ohne Hitzeschäden</p><p>❤️ Für seidenglattes und gesundes Haar</p><p>🔙 14-Tage Geld zurück Garantie</p>"
+            "liquid": "<style>\n.card-grid {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 16px;\n  justify-content: center;\n  margin-top: 20px;\n}\n\n.card-grid .info-card {\n  flex: 1 1 calc(50% - 16px);\n  max-width: calc(50% - 16px);\n  display: flex;\n  align-items: flex-start;\n  gap: 10px;\n  font-family: 'Inter', sans-serif;\n  animation: fadeInUp 0.5s ease forwards;\n  opacity: 0;\n  transform: translateY(20px);\n}\n\n.card-grid .info-card img {\n  width: 18px;\n  height: 18px;\n  margin-top: 2px;\n  opacity: 0.8;\n}\n\n.card-grid .info-card p {\n  margin: 0;\n  font-size: 14px;\n  font-weight: 500;\n  color: #000;\n  line-height: 1.4;\n}\n\n/* Mobile: 1 Karte pro Zeile */\n@media (max-width: 600px) {\n  .card-grid .info-card {\n    flex: 1 1 100%;\n    max-width: 100%;\n  }\n}\n</style>\n\n<div class=\"card-grid\">\n  <div class=\"info-card\">\n    <img src=\"https://img.icons8.com/ios-filled/50/000000/fan.png\" alt=\"Luft Icon\">\n    <p>Innovative Luft-Technologie</p>\n  </div>\n  <div class=\"info-card\">\n    <img src=\"https://img.icons8.com/ios-filled/50/000000/no-idea.png\" alt=\"Kein Hitze Icon\">\n    <p>Ohne Heizplatten. Ohne Hitzeschäden.</p>\n  </div>\n  <div class=\"info-card\">\n    <img src=\"https://img.icons8.com/ios-filled/50/000000/combo-chart.png\" alt=\"Haarglanz Icon\">\n    <p>Für seidenglattes & gesundes Haar</p>\n  </div>\n</div>"
           }
         },
         "buy_buttons": {
@@ -164,7 +164,7 @@
         "payment_terms",
         "separator",
         "variant_picker",
-        "text_gtAMRz",
+        "liquid_Cr8k3g",
         "buy_buttons",
         "liquid_RYrabh",
         "inventory_3Rrriy",
