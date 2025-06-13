@@ -12,19 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "offer_eVRQMK": {
-          "type": "offer",
-          "settings": {
-            "text_alignment": "center",
-            "icon_position": "aligned",
-            "icon": "picto-coupon",
-            "icon_width": 20,
-            "title": "SPARE 10% SUMMER DEAL",
-            "content": "<p>Nutze den Code: <strong>SUMMER10</strong></p>",
-            "background": "#f5ede7",
-            "text_color": "#000000"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -156,7 +143,6 @@
         }
       },
       "block_order": [
-        "offer_eVRQMK",
         "title",
         "badges",
         "loox_reviews_loox_rating_6wWzJT",
