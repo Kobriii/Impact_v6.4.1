@@ -179,63 +179,20 @@
         "input_text_color": ""
       }
     },
-    "testimonials_A3FEpW": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_3Ej8N8": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Julia K.",
-            "title": "Nie wieder normales Glätteisen!",
-            "content": "<p>AIRLY ist ein Gamechanger! Kein Ziepen, kein Hitzeschaden – meine Haare fühlen sich gesünder an als je zuvor. Und das Ganze in der Hälfte der Zeit.</p>"
-          }
-        },
-        "testimonial_dHwrzt": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Zara H.",
-            "title": "Bestes Styling-Tool, das ich je hatte!",
-            "content": "<p>AIRLY trocknet und glättet in einem Schritt – was für eine Zeitersparnis! Ideal für meinen stressigen Alltag.</p>"
-          }
-        },
-        "testimonial_zTV9hi": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Merve A.",
-            "title": "Ich bekomme ständig Komplimente für meine Haare!",
-            "content": "<p>Seit ich AIRLY benutze, sprechen mich ständig Leute auf mein Haar an – glatt, glänzend, aber nicht künstlich. Ich liebe es!</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_3Ej8N8",
-        "testimonial_dHwrzt",
-        "testimonial_zTV9hi"
-      ],
+    "scrolling_text_PE8cdM": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
       "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "ECHTE REVIEWS VON ECHTEN FRAUEN",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "#ffffff",
+        "full_width": false,
+        "text": "fantastic",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#000000",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "#ffffff",
-        "testimonial_card_text_color": ""
+        "text_color": "#ffffff",
+        "text_gradient": ""
       }
     },
     "media_with_text_AJgxnY": {
@@ -318,7 +275,7 @@
             "column_size": "4",
             "title": "Lockenaufsätze",
             "heading_tag": "h4",
-            "content": "<p>Kreiert schöne, definierte Locken einfach durch Wickeln und Gleiten.</p>",
+            "content": "<p>Erzeugen sanfte Wellen oder definierte Locken – ganz ohne extreme Hitze. Für flexibles Styling mit langanhaltendem Schwung.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -331,7 +288,7 @@
             "column_size": "4",
             "title": "Rundbürste",
             "heading_tag": "h4",
-            "content": "<p>Verleiht mehr Volumen und Fülle durch spezielle Borsten.</p>",
+            "content": "<p>Verleiht dem Haar Volumen, Form und Schwung – ideal für Föhnfrisuren, Locken oder glatte Styles mit Bewegung.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -344,7 +301,7 @@
             "column_size": "4",
             "title": "Smoothingbürste",
             "heading_tag": "h4",
-            "content": "<p>Ideal zum Entwirren, Glätten und Pflegen des Haares.</p>",
+            "content": "<p>Glättet das Haar sanft beim Bürsten, reduziert Frizz und sorgt für ein geschmeidiges Finish.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -357,7 +314,7 @@
             "column_size": "4",
             "title": "Pre-Styling-Föhn",
             "heading_tag": "h4",
-            "content": "<p>Schnelles, effektives Trocknen mit gleichmäßiger Hitzeverteilung, minimiert Hitzeschäden.</p>",
+            "content": "<p>Trocknet dein Haar schonend und bereitet es optimal auf das Styling vor für schnelleres, langanhaltendes Ergebnis</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -420,33 +377,6 @@
     },
     "media_with_text_qzQLnr": {
       "type": "media-with-text",
-      "blocks": {
-        "image_Ng8nRJ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.41.54.png",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "VORHER & NACHHER",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_Ng8nRJ"
-      ],
       "settings": {
         "full_width": false,
         "alternate_media_position": false,
@@ -508,7 +438,7 @@
   },
   "order": [
     "main",
-    "testimonials_A3FEpW",
+    "scrolling_text_PE8cdM",
     "media_with_text_AJgxnY",
     "media_with_text_B7dayA",
     "multi_column_PXGkFp",
