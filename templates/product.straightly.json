@@ -117,7 +117,7 @@
             "icon": "none",
             "icon_width": 28,
             "title": "Versand & Lieferung",
-            "content": "<p><strong>F: Wie benutzt du den STRAIGHTLY von Damloua?</strong><br/><br/>A: Um den STRAIGHTLY<strong> </strong>von Damloua<strong> </strong>zu verwenden, schalte ihn ein und wähle die gewünschte Hitze- und Geschwindigkeitseinstellung. Teile dann dein Haar in Abschnitte und gleite mit dem Luftglätter langsam über jeden Abschnitt, um dein Haar zu glätten und ihm Glanz zu verleihen.</p><p><strong>F: Ist der STRAIGHTLY von Damloua für alle Haartypen geeignet?</strong><br/><br/>A: Ja, der STRAIGHTLY von Damloua ist für verschiedene Haartypen geeignet, einschließlich glattes, welliges und lockiges Haar. Er bietet vielseitige Stylingoptionen, um jedem Haartyp ein glattes Finish zu verleihen.</p><p><strong>F: Kann ich die Hitze anpassen?</strong><br/><br/>A:Ja, du kannst die Hitze des STRAIGHTLY von Damloua anpassen. Es gibt mehrere Hitze- und Geschwindigkeitseinstellungen, sodass du die für dein Haar am besten geeignete Option wählen kannst.</p><p><strong>F: Ist der STRAIGHTLY von Damloua sicher für den täglichen Gebrauch?</strong><br/><br/>A: Ja, der STRAIGHTLY von Damloua ist sicher für den täglichen Gebrauch, vorausgesetzt, er wird entsprechend den Anweisungen verwendet. Um Haarschäden zu vermeiden, ist es ratsam, die Hitze nicht zu hoch einzustellen.</p><p><strong>F: Wie reinige ich den STRAIGHTLY von Damloua?</strong><br/><br/>A: Schalte den STRAIGHTLY von Damloua aus und lasse ihn abkühlen. Verwende dann ein feuchtes Tuch, um Rückstände von Haarprodukten zu entfernen. Achte darauf, den Luftglätter nicht direkt mit Wasser zu reinigen, da dies die Elektronik beschädigen könnte.</p><p><strong>F: Kann ich den STRAIGHTLY von Damloua auch bei nassem Haar verwenden?</strong><br/><br/>A: Es wird empfohlen, den STRAIGHTLY von Damloua nur auf handtuchtrockenem oder trockenem Haar zu verwenden, um Hitzeschäden zu vermeiden. Die Anwendung auf nassem Haar kann zu Haarbruch oder Schäden führen.</p><p><strong>F: Wie lange dauert es, bis der STRAIGHTLY von Damloua einsatzbereit ist?</strong><br/><br/>A: Der STRAIGHTLY von Damloua heizt sich in der Regel innerhalb weniger Minuten auf, je nach gewählter Hitze- und Geschwindigkeitseinstellung. Es ist ratsam, die Gebrauchsanweisung für spezifische Anweisungen zu lesen.</p><p><strong>F: Kann ich mit dem STRAIGHTLY von Damloua auch Locken machen?</strong><br/><br/>A: Ja, mit dem STRAIGHTLY von Damloua kannst du auch Locken oder Wellen stylen, indem du das Haar um den Glätter wickelst und es langsam durchführst. So kannst du verschiedene Looks mit nur einem Gerät kreieren.</p><p><strong>F: Ist der STRAIGHTLY von Damloua auch für Reisen geeignet?</strong><br/><br/>A: Der STRAIGHTLY von Damloua ist kompakt und leicht, was ihn zu einer idealen Option für Reisen macht. Achte jedoch darauf, die richtige Spannungseinstellung für das jeweilige Land zu verwenden, wenn du ins Ausland reist.</p>",
+            "content": "<p>Wir freuen uns, deine Bestellung für dich <strong>vorzubereiten</strong> und mit viel <strong>Sorgfalt</strong> zu verpacken. Innerhalb von <strong>1–2 Werktagen</strong> machen sich deine Produkte auf den Weg zu dir. Die Lieferzeit beträgt in der Regel <strong>5 bis 9 Werktage</strong> – genug Zeit, um die <strong>Vorfreude wachsen zu lassen</strong>!</p><p>Sobald dein Paket unterwegs ist, schicken wir dir eine <strong>Versandbestätigung</strong> mit einer <strong>Tracking-Nummer</strong>. So kannst du dein neues Lieblingsprodukt bequem verfolgen und bist immer auf dem Laufenden.</p><p>Manchmal kann es durch besondere Umstände oder saisonale Spitzenzeiten zu kleinen <strong>Verzögerungen</strong> kommen – dafür bitten wir um dein Verständnis. Wenn du <strong>Fragen hast, sind wir jederzeit für dich da</strong> und helfen dir gern weiter.</p>",
             "page": ""
           }
         },
@@ -177,66 +177,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "testimonials_A3FEpW": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_3Ej8N8": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Julia K.",
-            "title": "Nie wieder normales Glätteisen!",
-            "content": "<p>STRAIGHTLY ist ein Gamechanger! Kein Ziepen, kein Hitzeschaden – meine Haare fühlen sich gesünder an als je zuvor. Und das Ganze in der Hälfte der Zeit.</p>"
-          }
-        },
-        "testimonial_dHwrzt": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Zara H.",
-            "title": "Bestes Styling-Tool, das ich je hatte!",
-            "content": "<p>STRAIGHTLY trocknet und glättet in einem Schritt – was für eine Zeitersparnis! Ideal für meinen stressigen Alltag.</p>"
-          }
-        },
-        "testimonial_zTV9hi": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Merve A.",
-            "title": "Ich bekomme ständig Komplimente für meine Haare!",
-            "content": "<p>Seit ich STRAIGHTLY benutze, sprechen mich ständig Leute auf mein Haar an – glatt, glänzend, aber nicht künstlich. Ich liebe es!</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_3Ej8N8",
-        "testimonial_dHwrzt",
-        "testimonial_zTV9hi"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "ECHTE REVIEWS VON ECHTEN FRAUEN",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "#ffffff",
-        "testimonial_card_text_color": ""
       }
     },
     "media_with_text_AJgxnY": {
@@ -438,7 +378,6 @@
   },
   "order": [
     "main",
-    "testimonials_A3FEpW",
     "media_with_text_AJgxnY",
     "media_with_text_B7dayA",
     "media_with_text_MwL7KX",
