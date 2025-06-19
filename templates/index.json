@@ -238,9 +238,9 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
+            "atc_button_background": "#e18ad4",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#e18ad4",
             "payment_button_text_color": ""
           }
         }
@@ -284,10 +284,10 @@
         "content": "<p>Garantiert kein Spam. Versprochen. </p><p>Spare 10% auf deine erste Bestellung.</p>",
         "button_text": "REGISTRIEREN",
         "subtext": "",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
-        "button_background": "",
+        "button_background": "#e18ad4",
         "button_text_color": ""
       }
     },
