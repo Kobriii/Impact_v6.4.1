@@ -179,6 +179,22 @@
         "input_text_color": ""
       }
     },
+    "scrolling_text_VUyPWk": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Deine Zufriedenheit ist unser Versprechen",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 20,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_AJgxnY": {
       "type": "media-with-text",
       "blocks": {
@@ -378,6 +394,7 @@
   },
   "order": [
     "main",
+    "scrolling_text_VUyPWk",
     "media_with_text_AJgxnY",
     "media_with_text_B7dayA",
     "media_with_text_MwL7KX",
