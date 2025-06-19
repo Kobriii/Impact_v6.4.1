@@ -63,7 +63,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "UNSERE GARANTIE",
-            "content": "<p>Wenn du mit unseren Produkten nicht zufrieden bist, lass es uns innerhalb von 14 Tagen wissen und du erhältst dein Geld zurück.</p>"
+            "content": "<p>Wenn du mit unseren Produkten nicht zufrieden bist, gib uns einfach <strong>innerhalb von 14 Tagen</strong> Bescheid – du erhältst dein <strong>Geld zurück</strong>.</p>"
           }
         },
         "item_xDAhYE": {
@@ -76,7 +76,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "KOSTENLOSER VERSAND",
-            "content": "<p>Der Versand nach Deutschland dauert 5-9 Werktage. Sobald deine Bestellung versandt wurde, erhältst du eine Emailbestätigung. Der Versand aller Bestellungen ist für dich kostenlos!</p>"
+            "content": "<p>Der Versand nach Deutschland dauert <strong>5–9 Werktage</strong>.<br/><strong>Der Versand ist für dich kostenlos!</strong></p>"
           }
         },
         "item_39M7wE": {
@@ -89,7 +89,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "KUNDEN SUPPORT",
-            "content": "<p>Möchtest du mit uns Kontakt aufnehmen? Schicke uns einfach eine E-Mail an info@damloua.de</p>"
+            "content": "<p>Du möchtest mit uns in Kontakt treten?<br/>Schreib uns einfach eine E-Mail an: <strong>info@damloua.de</strong></p>"
           }
         }
       },
