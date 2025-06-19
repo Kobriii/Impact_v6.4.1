@@ -179,64 +179,20 @@
         "input_text_color": ""
       }
     },
-    "testimonials_A3FEpW": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_3Ej8N8": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Elif K.",
-            "title": "Liebs",
-            "content": "<p>Ich liebe das Gefühl beim Bürsten! Die Massage entspannt total und das Infrarotlicht fühlt sich richtig angenehm an. Habe BRUSHLY schon meiner Schwester empfohlen!</p>"
-          }
-        },
-        "testimonial_dHwrzt": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Chiara R.",
-            "title": "Super",
-            "content": "<p>Mein Haar war immer trocken und spröde – BRUSHLY hat es richtig weich gemacht. Die Kombination aus Wärme, Massage und Pflege ist einfach perfekt.</p>"
-          }
-        },
-        "testimonial_zTV9hi": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Lejla Z.",
-            "title": "Genau wie versprochen",
-            "content": "<p>Endlich eine Bürste, die nicht nur verspricht, sondern auch wirklich Ergebnisse liefert. Meine Haare glänzen und fühlen sich viel gesünder an.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_3Ej8N8",
-        "testimonial_dHwrzt",
-        "testimonial_zTV9hi"
-      ],
-      "name": "Testimonials",
+    "scrolling_text_nKQhPA": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "❤️ BRUSHLY überzeugt – lies selbst!",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "#ffffff",
+        "text": "Deine Zufriedenheit ist unser Versprechen",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 20,
+        "background": "#000000",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "#ffffff",
-        "testimonial_card_text_color": ""
+        "text_color": "#ffffff",
+        "text_gradient": ""
       }
     },
     "media_with_text_AJgxnY": {
@@ -395,7 +351,7 @@
   },
   "order": [
     "main",
-    "testimonials_A3FEpW",
+    "scrolling_text_nKQhPA",
     "media_with_text_AJgxnY",
     "media_with_text_B7dayA",
     "media_with_text_MwL7KX",
