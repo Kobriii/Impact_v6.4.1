@@ -189,66 +189,6 @@
         "text_color": ""
       }
     },
-    "testimonials_w7FgNg": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_wtLYaz": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Aylin K.",
-            "title": "Stylisch, praktisch und super easy zu bedienen!",
-            "content": "<p>Das Design ist nicht nur schön, sondern auch durchdacht. Ich liebe es, wie schnell ich morgens fertig bin ohne Hitzeschäden!</p>"
-          }
-        },
-        "testimonial_4MjJKq": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Sophie M.",
-            "title": "Meine Locken halten endlich den ganzen Tag!",
-            "content": "<p>Ich habe dickes, schwer zu stylendes Haar – aber mit dem Airly klappt es mühelos. Und es sieht sogar professionell aus!</p>"
-          }
-        },
-        "testimonial_GFMyd6": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Fatima L.",
-            "title": "Mein neues Lieblings-Tool!",
-            "content": "<p>Ich bin absolut begeistert vom Ergebnis. Die Anwendung ist super intuitiv, und meine Haare fühlen sich richtig gesund an.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_wtLYaz",
-        "testimonial_4MjJKq",
-        "testimonial_GFMyd6"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": false,
-        "subheading": "",
-        "title": "Kunden Bewertungen",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "#ffffff",
-        "testimonial_card_text_color": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -418,7 +358,6 @@
     "scrolling-text",
     "featured_collection_H8e7KM",
     "rich_text_X4wckK",
-    "testimonials_w7FgNg",
     "featured-product",
     "newsletter_VrUaj8",
     "faq"
