@@ -114,7 +114,7 @@
         "collapsible_text_jh7UjJ": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-chat",
+            "icon": "none",
             "icon_width": 28,
             "title": "FAQ",
             "content": "<p><strong>F:</strong> Was ist BRUSHLY und wie funktioniert sie?<br/><br/><strong>A:</strong> BRUSHLY ist eine innovative Haarbürste, die beim Einschalten die Bürstenköpfe sanft bewegt und dabei Öl aus einem integrierten Tank abgibt. So wird dein Haar gleichzeitig gepflegt und massiert.</p><p><strong>F:</strong> Wie funktioniert der Öl-Applikator?<br/><br/><strong>A:</strong> In der Bürste befindet sich ein Öl-Tank, der beim Bürsten automatisch eine kleine Menge Öl an die Bürstenköpfe abgibt. Dieses Öl wird gleichmäßig ins Haar und auf die Kopfhaut einmassiert und sorgt für Geschmeidigkeit und Pflege.</p><p><strong>F:</strong> Was bewirkt der Infrarot-Ring?<br/><br/><strong>A:</strong> Der Infrarot-Ring sorgt für eine wohltuende Tiefenwärme, die die Durchblutung der Kopfhaut fördert und die Aufnahme des Öls unterstützt. So fühlt sich dein Haar gesund und kräftig an.</p><p><strong>F:</strong> Für welche Haartypen ist BRUSHLY geeignet?<br/><br/><strong>A:</strong> BRUSHLY eignet sich für alle Haartypen – egal ob glatt, lockig, dünn oder dick.</p><p><strong>F:</strong> Ist die Anwendung sicher für mein Haar und meine Kopfhaut?<br/><br/><strong>A:</strong> Ja, die sanfte Massagefunktion und die schonende Ölzufuhr sorgen für eine pflegende Anwendung ohne Hitzeschäden oder Reizungen.</p><p><strong>F:</strong> Wie oft sollte ich BRUSHLY benutzen?<br/><br/><strong>A:</strong> Du kannst BRUSHLY täglich oder je nach Bedarf verwenden, um dein Haar zu pflegen und die Kopfhaut zu massieren.</p><p><strong>F:</strong> Wie reinige ich die Bürste?<br/><br/><strong>A:</strong> Entferne regelmäßig Haare aus der Bürste und reinige die Bürstenköpfe vorsichtig mit einem feuchten Tuch. Den Öl-Tank kannst du bei Bedarf nachfüllen.</p>",
@@ -124,7 +124,7 @@
         "collapsible_text_JhbYD3": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-love",
+            "icon": "none",
             "icon_width": 28,
             "title": "Unsere Garantie",
             "content": "<p>Wir lieben den STRAIGHTLY genauso, wie du ihn lieben wirst, und bieten deshalb eine risikofreie 14 tägige Geld-Zurück-Garantie an. Wenn du nicht zufrieden bist kannst du uns STRAIGHTLY jederzeit einfach zurücksenden & wir erstatten dir den vollen Betrag zurück!</p>",
@@ -134,10 +134,10 @@
         "collapsible_text_mrR6tM": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-truck",
+            "icon": "none",
             "icon_width": 28,
-            "title": "Lieferumfang",
-            "content": "<p>Wir nutzen <strong>DHL und Hermes</strong> als Versanddienstleister.</p><p>✅ Damloua - BRUSHLY 2.0<br/>✅ Betriebsanleitung</p>",
+            "title": "Zahlungsarten",
+            "content": "<p>Bezahl einfach, wie du magst: PayPal, alle gängigen Kreditkarte, Apple Pay, Google Pay, Sofort, Klarna (Kauf auf Rechnung) – sicher & bequem!</p>",
             "page": ""
           }
         }
