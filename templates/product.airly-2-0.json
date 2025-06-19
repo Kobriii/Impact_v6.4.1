@@ -114,19 +114,19 @@
         "collapsible_text_jh7UjJ": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-chat",
+            "icon": "none",
             "icon_width": 28,
-            "title": "FAQ",
-            "content": "<p><strong>F:</strong> Was ist AIRLY und wie funktioniert es?<br/><br/><strong>A:</strong> AIRLY ist ein innovatives Luftstylinggerät, das dein Haar mit einem kontrollierten, heißen Luftstrom formt – ganz ohne extreme Hitze. Ob glätten, locken oder Volumen stylen: Mit AIRLY gelingt dir dein Look sanft und effizient, ohne dein Haar zu schädigen.</p><p><strong>F:</strong> Wie unterscheidet sich AIRLY von herkömmlichen Stylingtools?<br/><br/><strong>A:</strong> Im Gegensatz zu Glätteisen oder Lockenstäben arbeitet AIRLY mit Luft statt mit direkten Heizplatten. Dadurch wird das Haar geschont und gleichzeitig gestylt – ideal für tägliche Anwendungen ohne Hitzeschäden.</p><p><strong>F:</strong> Kann ich mit AIRLY Locken und Wellen stylen?<br/><br/><strong>A:</strong> Ja! AIRLY bietet verschiedene Aufsätze, mit denen du sowohl definierte Locken als auch sanfte Wellen oder glattes Haar stylen kannst – ganz nach deinem Wunsch.</p><p><strong>F:</strong> Für welche Haartypen ist AIRLY geeignet?<br/><br/><strong>A:</strong> AIRLY eignet sich für alle Haartypen – von fein bis dick, von glatt bis natürlich lockig. Dank einstellbarer Lufttemperatur und Luftstromgeschwindigkeit kannst du es auf deine individuellen Bedürfnisse abstimmen.</p><p><strong>F:</strong> Kann ich AIRLY im nassen Haar verwenden?<br/><br/><strong>A:</strong> AIRLY wurde für leicht feuchtes bis handtuchtrockenes Haar entwickelt. So kannst du das Haar direkt nach dem Waschen stylen – ohne es vorher komplett trocken föhnen zu müssen.</p><p><strong>F:</strong> Ist AIRLY schonend für das Haar?<br/><br/><strong>A:</strong> Ja, AIRLY arbeitet mit intelligenter Temperaturkontrolle und schützt das Haar vor extremer Hitze. Dadurch bleibt dein Haar gesund, glänzend und weniger anfällig für Spliss oder Bruch.</p><p><strong>F:</strong> Wie lange dauert das Styling mit AIRLY?<br/><br/><strong>A:</strong> Da AIRLY trocknet und stylt in einem Schritt, sparst du deutlich Zeit. Je nach Haarlänge und -struktur dauert das komplette Styling in der Regel zwischen 10 und 20 Minuten.</p><p><strong>F:</strong> Kann ich die Aufsätze wechseln?<br/><br/><strong>A:</strong> Ja, AIRLY kommt mit mehreren austauschbaren Aufsätzen für verschiedene Stylingbedürfnisse – vom Glättaufsatz über Lockenaufsätze bis hin zur Volumenbürste.</p>",
+            "title": "Versand & Lieferungen",
+            "content": "<p>ss</p>",
             "page": ""
           }
         },
         "collapsible_text_JhbYD3": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-love",
+            "icon": "none",
             "icon_width": 28,
-            "title": "Unsere Garantie",
+            "title": "14 Tage Unsere Garantie",
             "content": "<p>Wir lieben den STRAIGHTLY genauso, wie du ihn lieben wirst, und bieten deshalb eine risikofreie 14 tägige Geld-Zurück-Garantie an. Wenn du nicht zufrieden bist kannst du uns STRAIGHTLY jederzeit einfach zurücksenden & wir erstatten dir den vollen Betrag zurück!</p>",
             "page": ""
           }
@@ -134,10 +134,10 @@
         "collapsible_text_mrR6tM": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-truck",
+            "icon": "none",
             "icon_width": 28,
-            "title": "Lieferumfang",
-            "content": "<p>Wir nutzen <strong>DHL und Hermes</strong> als Versanddienstleister.</p><p>✅ Damloua - AIRLY 2.0<br/>✅ Aufsätze für AIRLY</p>",
+            "title": "Zahlungsarten",
+            "content": "<p>Bezahl einfach, wie du magst: PayPal, alle gängigen Kreditkarte, Apple Pay, Google Pay, Sofort, Klarna (Kauf auf Rechnung) – sicher & bequem!</p>",
             "page": ""
           }
         }
@@ -183,7 +183,7 @@
       "type": "scrolling-text",
       "name": "Scrolling text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "text": "fantastic",
         "text_size": "xsmall",
         "text_style": "fill",
@@ -201,7 +201,7 @@
         "image_QtqLa8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.45.16.png",
+            "image": "shopify://shop_images/2.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -346,7 +346,7 @@
         "image_Rtfxpb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Bildschirmfoto_2025-04-27_um_21.44.30.png",
+            "image": "shopify://shop_images/9.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -354,7 +354,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "WARUM AIRLY?",
-            "content": "<p>Föhnen und Glätten in einem Schritt – ganz ohne Hitzeschäden.<br/><br/>DAMLOUA AIRLY ist die smarte, schonende und <strong>günstigere Alternative zu bekannten Marken</strong>, dabei genauso leistungsstark.<br/><br/>Geeignet für <strong>alle Haartypen</strong>, sorgt AIRLY für ein <strong>mühelos natürliches Styling</strong> – schnell, sanft und effektiv.</p>",
+            "content": "<p>Föhnen und Locken in einem Schritt – ganz ohne Hitzeschäden.<br/><br/>DAMLOUA AIRLY ist die smarte, schonende und <strong>günstigere Alternative zu bekannten Marken</strong>, dabei genauso leistungsstark.<br/><br/>Geeignet für <strong>alle Haartypen</strong>, sorgt AIRLY für ein <strong>mühelos natürliches Styling</strong> – schnell, sanft und effektiv.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
