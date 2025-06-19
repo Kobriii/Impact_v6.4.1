@@ -184,11 +184,11 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "fantastic",
+        "text": "Deine Zufriedenheit ist unser Versprechen",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 10,
+        "scrolling_speed": 20,
         "background": "#000000",
         "background_gradient": "",
         "text_color": "#ffffff",
