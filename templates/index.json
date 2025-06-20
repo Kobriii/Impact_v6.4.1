@@ -116,7 +116,7 @@
       "settings": {
         "full_width": true,
         "text": "DAMLOUA ENTDECKEN",
-        "text_size": "medium",
+        "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "scroll",
         "scrolling_speed": 5,
